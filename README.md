@@ -1,16 +1,6 @@
 # mavi_pati
 
-A new Flutter project.
+With this application, you will get information about the type of your pet and take a closer look at the diseases and vaccines, and at the same time, you can follow the vaccination times of your pet.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+of course the app needs more optimizing development
